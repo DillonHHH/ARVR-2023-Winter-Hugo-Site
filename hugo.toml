@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Rocket Jump by Dillon Hines'
+theme = 'stack'
