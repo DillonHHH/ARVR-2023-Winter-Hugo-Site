@@ -8,6 +8,8 @@ weight: 5
 {{< video "/playthrough.mp4" >}}
 -- background music not included
 
+[click me if video doesn't play](/playthrough.mp4)
+
 # Evaluations
 
 Prior info:
