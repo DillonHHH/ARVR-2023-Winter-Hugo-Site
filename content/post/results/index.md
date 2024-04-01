@@ -5,10 +5,11 @@ slug: results
 weight: 5
 ---
 # Full Playthrough
-{{< video "/playthrough.mp4" >}}
+{{< video "ARVR-2023-Winter-Hugo-Site/playthrough.mp4" >}}
 -- background music not included
 
-[click me if video doesn't play](/playthrough.mp4)
+
+[click me if video doesn't play](/ARVR-2023-Winter-Hugo-Site/playthrough.mp4)
 
 # Evaluations
 
